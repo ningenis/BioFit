@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'ClickerScript';
+    src: url('fonts/ClickerScript-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+h1, h2, h3, h4 {
+	font-family: ClickerScript;
+}
+h1 {
+	font-size: 3.5em;
+}
+h2 {
+	font-size: 3em;
+}
+h3 {
+	font-size: 2.5em;
+}
+h4 {
+	font-size: 2em;
+}
+#kotak-konten {
+	background: #fff;
+}
